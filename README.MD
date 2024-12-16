@@ -10,3 +10,4 @@
     $ npm run preview:php => to use php built-in webserver. (XAMPP or MAMP can also be used...)
 
 > Do not use /public folder for static assets when using build:php. Because Vite does not scan your html in the php file. It only exports and bundles js and css.
+> So just use a /images folder.
