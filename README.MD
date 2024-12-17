@@ -1,6 +1,7 @@
 # FASE 1: CLIENT SIDE
 
-    $ npm run dev | npm start
+    $
+    npm run dev | npm start
     $ npm run build
     $ npm run preview
 
