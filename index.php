@@ -1,6 +1,7 @@
 <?php
 include_once "includes/css_js.inc.php";
 include_once "includes/db.inc.php";
+// test
 ?>
 <!DOCTYPE html>
 <html lang="en">
